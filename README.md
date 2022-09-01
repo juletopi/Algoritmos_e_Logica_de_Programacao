@@ -6,7 +6,7 @@
   <h2 align="center">Algoritmos e Lógica de Programação</h2>
  
 <div align="center">
-Este é um repositório com o conteúdo das aulas de Algoritmos e Lógica de Programação, ministradas pelo professor Cleiton Ferraz, utilizando o Visual Studio e a Linguagem CSharp como ferramentas de aprendizado.
+• Este é um repositório com o conteúdo das aulas de Algoritmos e Lógica de Programação, ministradas pelo professor Cleiton Ferraz, utilizando o Visual Studio e a Linguagem CSharp como ferramentas de aprendizado.
 </div>
 
 ###
