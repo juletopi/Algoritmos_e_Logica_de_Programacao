@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/github/license/juletopi/Algoritmos_e_Logica_de_Programacao" alt="MITLiscence-badge">
 
 <div align="center">
-  <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" width="100px" alt="HackerBongoCat-gif"></a>
+  <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="HackerBongoCat-gif" width="100px"></a>
   <h2 align="center">Algoritmos e Lógica de Programação</h2>
  
 <div align="center">
