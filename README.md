@@ -1,2 +1,31 @@
-# Algoritmos_e_Logica_de_Programacao
-• Repositório com o conteúdo das aulas de Algoritmos e Lógica de Programação, ministradas pelo professor Cleiton Ferraz, utilizando o Visual Studio e a Linguagem CSharp como ferramentas de aprendizado.
+<div align="center">
+  <h1>Algoritmos e Lógica de Programação <img src="https://cdn3.iconfinder.com/data/icons/education-652/64/mathematics-education-calculating-computer-512.png" width="30px" height="30px" alt="ComputerMathematics-pic"></h1>
+
+<div align="center">
+  <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" align="right" width="265" height="268" alt="HackerBongocat-gif"></a>
+
+<div align="left">
+
+```
+          __  __       _                       _   _
+         |  \/  | __ _| |_ ___ _ __ ___   __ _| |_(_) ___ __ _
+         | |\/| |/ _` | __/ _ | '_ ` _ \ / _` | __| |/ __/ _` |
+         | |  | | (_| | ||  __| | | | | | (_| | |_| | (_| (_| |
+         |_|  |_|\__,_|\__\___|_| |_| |_|\__,_|\__|_|\___\__,_|
+
+   ____                            _             _                   _
+  / ___|___  _ __ ___  _ __  _   _| |_ __ _  ___(_) ___  _ __   __ _| |
+ | |   / _ \| '_ ` _ \| '_ \| | | | __/ _` |/ __| |/ _ \| '_ \ / _` | |
+ | |__| (_) | | | | | | |_) | |_| | || (_| | (__| | (_) | | | | (_| | |
+  \____\___/|_| |_| |_| .__/ \__,_|\__\__,_|\___|_|\___/|_| |_|\__,_|_|
+                      |_|
+```
+<div align="left">
+
+## ➔ Resumo:
+
+</div>
+
+<div align="left">
+• Este é um repositório com o conteúdo das aulas de Algoritmos e Lógica de Programação, ministradas pelo professor Cleiton Ferraz, utilizando o Visual Studio e a Linguagem CSharp como ferramentas de aprendizado.
+</div>
