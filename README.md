@@ -2,7 +2,7 @@
   <h1>Algoritmos e Lógica de Programação <img src="https://cdn3.iconfinder.com/data/icons/education-652/64/mathematics-education-calculating-computer-512.png" width="30px" height="30px" alt="ComputerMathematics-pic"></h1>
 
 <div align="center">
-  <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" align="right" width="280" height="385" alt="HackerBongocat-gif"></a>
+  <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" align="right" width="300" height="385" alt="HackerBongocat-gif"></a>
 
 <div align="left">
 
@@ -12,7 +12,7 @@
                / _ \ | |/ _` |/ _ \| '__| | __| '_ ` _ \ / _ \/ __|
               / ___ \| | (_| | (_) | |  | | |_| | | | | | (_) \__ \
              /_/   \_|_|\__, |\___/|_|  |_|\__|_| |_| |_|\___/|___/
-                      |___/
+                        |___/
                                _                _
                      ___      | |    ___   __ _(_) ___ __ _
                     / _ \     | |   / _ \ / _` | |/ __/ _` |
