@@ -1,0 +1,8 @@
+C:\Users\julio\source\repos\Saque Bancário C#\Saque_Bancario_CSharp\bin\Debug\Saque_Bancario_CSharp.exe.config
+C:\Users\julio\source\repos\Saque Bancário C#\Saque_Bancario_CSharp\bin\Debug\Saque_Bancario_CSharp.exe
+C:\Users\julio\source\repos\Saque Bancário C#\Saque_Bancario_CSharp\bin\Debug\Saque_Bancario_CSharp.pdb
+C:\Users\julio\source\repos\Saque Bancário C#\Saque_Bancario_CSharp\obj\Debug\Saque_Bancario_CSharp.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Saque Bancário C#\Saque_Bancario_CSharp\obj\Debug\Saque_Bancario_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\Saque Bancário C#\Saque_Bancario_CSharp\obj\Debug\Saque_Bancario_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Saque Bancário C#\Saque_Bancario_CSharp\obj\Debug\Saque_Bancario_CSharp.exe
+C:\Users\julio\source\repos\Saque Bancário C#\Saque_Bancario_CSharp\obj\Debug\Saque_Bancario_CSharp.pdb
