@@ -1,6 +1,7 @@
 <div align="left">
   <img src="https://img.shields.io/github/license/juletopi/Algoritmos_e_Logica_de_Programacao" alt="MITLiscence-badge">
-  <img src="https://github-visitors-badge.glitch.me/badge?page_id=Algoritmos_e_Logica_de_Programacao.github-visitors-badge">
+  <img src="https://github-visitors-badge.glitch.me/badge?page_id=Algoritmos_e_Logica_de_Programacao.github-visitors-badge" alt="Visitors-badge">
+  <img src="https://img.shields.io/github/stars/juletopi/Algoritmos_e_Logica_de_Programacao?label=stars&logo=Profile%20stars&Color=y" alt="Starred-badge">
 
 ###
 
