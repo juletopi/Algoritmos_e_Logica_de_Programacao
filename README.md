@@ -24,6 +24,8 @@ linguagem **CSharp** como ferramentas de aprendizado.
   <img src="https://img.shields.io/badge/And%20made%20with%20language:-CSharp%20-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" alt="CSharp-badge" style="max-width: 100%;">
 </div>
 
+----
+
 <div align="left">
 
 ## 👨‍🏫 Professor:
