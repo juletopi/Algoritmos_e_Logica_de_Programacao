@@ -1,6 +1,6 @@
 <div align="left">
   <img src="https://img.shields.io/github/license/juletopi/Algoritmos_e_Logica_de_Programacao" alt="MITLiscence-badge">
-  <img src="https://github-visitors-badge.glitch.me/badge?page_id=Algoritmos_e_Logica_de_Programacao.github-visitors-badge" alt="Visitors-badge">
+  <img src="https://github-visitors-badge.glitch.me/badge?page_id=Algoritmos_e_Logica_de_Programacao.github-visitors-badge" alt="PageVisitors-badge">
 
 ###
 
@@ -30,7 +30,7 @@ linguagem **CSharp** como ferramentas de aprendizado.
 
 ## 👨‍🏫 Professor:
 
-<img align="left" height="120px" width="120px" alt="ClaytonFerraz-pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQHqUZT7sB-pVw/profile-displayphoto-shrink_200_200/0/1588373131634?e=1668038400&v=beta&t=VPmNXk_FnqQFqkBxgtVDBSvWPgNFWzlqibXcHJOIkeI">
+  <img align="left" height="120px" width="120px" alt="ClaytonFerraz-pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQHqUZT7sB-pVw/profile-displayphoto-shrink_200_200/0/1588373131634?e=1668038400&v=beta&t=VPmNXk_FnqQFqkBxgtVDBSvWPgNFWzlqibXcHJOIkeI">
 
 **Analista de Sistemas, Professor de Curso Técnico e Superior & Coordenador de Curso Superior de Tecnologia em ADS** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Março de 2014</i> \
