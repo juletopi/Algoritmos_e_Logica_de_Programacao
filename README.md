@@ -32,7 +32,7 @@ linguagem **CSharp** como ferramentas de aprendizado.
 
 **Analista de Sistemas, Professor de Curso Técnico e Superior & Coordenador de Curso Superior de Tecnologia em ADS** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Março de 2014</i> \
-Linguagens & Tecnologias: `JavaScript` • `HTML` • `PHP` • `C#` • `NodeJS` • `GraphQL` \
+Linguagens & Tecnologias: `JavaScript` • `HTML` • `PHP` • `C#` • `NodeJS` • `GraphQL` • `E outros...` \
 Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 <br/>
 <br/>
