@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="HackerBongoCat-gif" width="100px"></a>
-  <h2 align="center">Algoritmos e Lógica de Programação</h2>
+  <h2 align="center">Algoritmos e Lógica de Programação 👩‍💻</h2>
  
 <div align="center">
 
@@ -26,7 +26,7 @@ linguagem **CSharp** como ferramentas de aprendizado.
 
 <div align="left">
 
-## Resumo:
+## 👨‍🏫 Professor:
 
 <img align="left" height="120px" width="120px" alt="ClaytonFerraz-pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQHqUZT7sB-pVw/profile-displayphoto-shrink_200_200/0/1588373131634?e=1668038400&v=beta&t=VPmNXk_FnqQFqkBxgtVDBSvWPgNFWzlqibXcHJOIkeI">
 
