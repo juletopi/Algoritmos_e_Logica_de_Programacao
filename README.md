@@ -23,3 +23,16 @@ linguagem **CSharp** como ferramentas de aprendizado.
   <img src="https://img.shields.io/badge/Made%20with%20IDE:-Visual%20Studio%20-gray.svg?colorA=655BE1&amp;colorB=4F44D6&amp;style=for-the-badge" alt="VisualStudio-badge" style="max-width: 100%;">
   <img src="https://img.shields.io/badge/And%20made%20with%20language:-CSharp%20-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" alt="CSharp-badge" style="max-width: 100%;">
 </div>
+
+<div align="left">
+
+## Resumo:
+
+<img align="left" height="120px" width="120px" alt="ClaytonFerraz-pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQHqUZT7sB-pVw/profile-displayphoto-shrink_200_200/0/1588373131634?e=1668038400&v=beta&t=VPmNXk_FnqQFqkBxgtVDBSvWPgNFWzlqibXcHJOIkeI">
+
+**Analista de Sistemas, Professor de Curso Técnico e Superior & Coordenador de Curso Superior de Tecnologia em ADS** \
+[**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Março de 2014</i> \
+Linguagens & Tecnologias: `JavaScript` • `HTML` • `PHP` • `C#` • `NodeJS` • `GraphQL` \
+Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
+<br/>
+<br/>
