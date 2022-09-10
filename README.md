@@ -36,3 +36,10 @@ linguagem **CSharp** como ferramentas de aprendizado.
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Março de 2014</i> \
 Linguagens & Tecnologias: `JavaScript` • `HTML` • `PHP` • `C#` • `NodeJS` • `GraphQL` • `E outros...` \
 Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
+
+&nbsp;
+
+<div align="center">
+Feito com ❤️ por Juletopi
+</div>
+
