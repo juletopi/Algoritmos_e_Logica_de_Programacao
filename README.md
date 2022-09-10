@@ -40,6 +40,6 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 &nbsp;
 
 <div align="center">
-Feito com ❤️ por Juletopi
+Feito com 💚 por Juletopi
 </div>
 
