@@ -54,7 +54,7 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/76459155/189613140-c148ff12-a7f8-4fe8-8e04-109452c86aba.png" align="center" width="800" height="90" alt="ObrigadoPorVisitar(Verde)-pic"/>
+<img src="https://user-images.githubusercontent.com/76459155/189613140-c148ff12-a7f8-4fe8-8e04-109452c86aba.png" align="center" width="600" height="90" alt="ObrigadoPorVisitar(Verde)-pic"/>
 </div>
 
 <div align="center">
