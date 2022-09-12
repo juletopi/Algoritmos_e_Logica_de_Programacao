@@ -35,14 +35,14 @@ linguagem **CSharp** como ferramentas de aprendizado.
 &#8196;
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
 </div>
 
 <div align="left">
 
 ## 👨‍🏫 Professor:
 
-  <img align="left" height="120px" width="120px" alt="ClaytonFerraz-pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQHqUZT7sB-pVw/profile-displayphoto-shrink_200_200/0/1588373131634?e=1668038400&v=beta&t=VPmNXk_FnqQFqkBxgtVDBSvWPgNFWzlqibXcHJOIkeI">
+<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ClaytonFerraz-pic.jpg"><img align="left" height="120px" width="120px" alt="ClaytonFerraz-pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQHqUZT7sB-pVw/profile-displayphoto-shrink_200_200/0/1588373131634?e=1668038400&v=beta&t=VPmNXk_FnqQFqkBxgtVDBSvWPgNFWzlqibXcHJOIkeI"></a>
 
 **Clayton Ferraz - Analista de Sistemas, Professor de Curso Técnico e Superior & Coordenador de Curso Superior de Tecnologia em ADS** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Março de 2014</i> \
@@ -54,7 +54,7 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/76459155/189613140-c148ff12-a7f8-4fe8-8e04-109452c86aba.png" align="center" width="600" height="90" alt="ObrigadoPorVisitar(Verde)-pic"/>
+<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ObrigadoPorVisitar(Verde)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/189613140-c148ff12-a7f8-4fe8-8e04-109452c86aba.png" align="center" width="600" height="90" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
 </div>
 
 <div align="center">
