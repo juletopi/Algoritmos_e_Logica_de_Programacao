@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="HackerBongoCat-gif" width="100px"></a>
   <h2 align="center">Algoritmos e Lógica de Programação 👩‍💻</h2>
- 
+
 <div align="center">
 
 ###
@@ -24,7 +24,10 @@ linguagem **CSharp** como ferramentas de aprendizado.
    <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/And%20made%20with%20language:-CSharp%20-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" alt="CSharpLanguage-badge" style="max-width: 100%;"></a>
 </div>
 
-----
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+</div>
+&#8196;
 
 <div align="left">
 
