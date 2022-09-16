@@ -8,14 +8,16 @@
 -->
 
 <div align="left">
-  <img src="https://img.shields.io/github/license/juletopi/Algoritmos_e_Logica_de_Programacao" alt="MITLiscence-badge">
-  <img src="https://github-visitors-badge.glitch.me/badge?page_id=Algoritmos_e_Logica_de_Programacao.github-visitors-badge&right_color=green" alt="PageVisitors-badge">
+<img src="https://img.shields.io/github/license/juletopi/Algoritmos_e_Logica_de_Programacao" alt="MITLiscence-badge">
+<img src="https://github-visitors-badge.glitch.me/badge?page_id=Algoritmos_e_Logica_de_Programacao.github-visitors-badge" alt="PageVisitors-badge">
+</div>
 
 ###
 
 <div align="center">
-  <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="HackerBongoCat-gif" width="100px"></a>
-  <h2 align="center">Algoritmos e Lógica de Programação 👩‍💻</h2>
+<a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="HackerBongoCat-gif" width="100px"></a>
+<h2 align="center">Algoritmos e Lógica de Programação 👩‍💻</h2>
+</div>
 
 <div align="center">
 
@@ -29,13 +31,13 @@ linguagem **CSharp** como ferramentas de aprendizado.
 ###
 
 <div align="center">
-  <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Made%20with%20IDE:-Visual%20Studio%20-gray.svg?colorA=655BE1&amp;colorB=4F44D6&amp;style=for-the-badge" alt="VisualStudioIDE-badge" style="max-width: 100%;"></a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/And%20made%20with%20language:-CSharp%20-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" alt="CSharpLanguage-badge" style="max-width: 100%;"></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Made%20with%20IDE:-Visual%20Studio%20-gray.svg?colorA=655BE1&amp;colorB=4F44D6&amp;style=for-the-badge" alt="VisualStudioIDE-badge" style="max-width: 100%;"></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/And%20made%20with%20language:-CSharp%20-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" alt="CSharpLanguage-badge" style="max-width: 100%;"></a>
 </div>
 &#8196;
 
 <div align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
 </div>
 
 <div align="left">
@@ -53,7 +55,6 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 &nbsp;
 
 <div align="center">
-
 <a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ObrigadoPorVisitar(Verde)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/189613140-c148ff12-a7f8-4fe8-8e04-109452c86aba.png" align="center" width="600" height="70" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
 </div>
 
