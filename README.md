@@ -52,6 +52,12 @@ Linguagens & Tecnologias: `JavaScript` • `HTML` • `PHP` • `C#` • `NodeJS
 Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 
 ###
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+</div>
+
+###
 &nbsp;
 
 <div align="center">
