@@ -61,7 +61,7 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 &nbsp;
 
 <div align="center">
-<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ObrigadoPorVisitar(Verde)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/189613140-c148ff12-a7f8-4fe8-8e04-109452c86aba.png" align="center" width="600" height="70" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
+<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ObrigadoPorVisitar(Verde)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/189613140-c148ff12-a7f8-4fe8-8e04-109452c86aba.png" align="center" width="500" height="60" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
 </div>
 
 <div align="center">
