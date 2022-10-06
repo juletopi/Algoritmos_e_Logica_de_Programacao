@@ -1,8 +1,0 @@
-C:\Users\julio\source\repos\Atividade 05 Conceitos de If-Else C#\EXERCICIO_06\obj\Debug\EXERCICIO_06.csproj.AssemblyReference.cache
-C:\Users\julio\source\repos\Atividade 05 Conceitos de If-Else C#\EXERCICIO_06\obj\Debug\EXERCICIO_06.csproj.SuggestedBindingRedirects.cache
-C:\Users\julio\source\repos\Atividade 05 Conceitos de If-Else C#\EXERCICIO_06\obj\Debug\EXERCICIO_06.csproj.CoreCompileInputs.cache
-C:\Users\julio\source\repos\Atividade 05 Conceitos de If-Else C#\EXERCICIO_06\bin\Debug\EXERCICIO_06.exe.config
-C:\Users\julio\source\repos\Atividade 05 Conceitos de If-Else C#\EXERCICIO_06\bin\Debug\EXERCICIO_06.exe
-C:\Users\julio\source\repos\Atividade 05 Conceitos de If-Else C#\EXERCICIO_06\bin\Debug\EXERCICIO_06.pdb
-C:\Users\julio\source\repos\Atividade 05 Conceitos de If-Else C#\EXERCICIO_06\obj\Debug\EXERCICIO_06.exe
-C:\Users\julio\source\repos\Atividade 05 Conceitos de If-Else C#\EXERCICIO_06\obj\Debug\EXERCICIO_06.pdb
