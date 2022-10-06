@@ -1,8 +1,0 @@
-C:\Users\julio\source\repos\Calculadora C#\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe.config
-C:\Users\julio\source\repos\Calculadora C#\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe
-C:\Users\julio\source\repos\Calculadora C#\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.pdb
-C:\Users\julio\source\repos\Calculadora C#\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csproj.AssemblyReference.cache
-C:\Users\julio\source\repos\Calculadora C#\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csproj.SuggestedBindingRedirects.cache
-C:\Users\julio\source\repos\Calculadora C#\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csproj.CoreCompileInputs.cache
-C:\Users\julio\source\repos\Calculadora C#\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.exe
-C:\Users\julio\source\repos\Calculadora C#\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.pdb
