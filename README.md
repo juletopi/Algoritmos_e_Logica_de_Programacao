@@ -2,6 +2,7 @@
 ❗ ➤ References used in this Repository:
 🔗 • https://github.com/kyechan99/capsule-render
 🔗 • https://github.com/DenverCoder1/custom-icon-badges
+🔗 • https://profilepicturemaker.com
 🔗 • https://shields.io
 🔗 • https://emoji.gg
 🔗 • https://getemoji.com
