@@ -44,7 +44,7 @@ linguagem **CSharp** como ferramentas de aprendizado.
 
 ## 👨‍🏫 Professor:
 
-<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ClaytonFerraz-pic.jpg"><img align="left" height="120px" width="120px" alt="ClaytonFerraz-pic" src="https://media-exp1.licdn.com/dms/image/C4E03AQHqUZT7sB-pVw/profile-displayphoto-shrink_200_200/0/1588373131634?e=1668038400&v=beta&t=VPmNXk_FnqQFqkBxgtVDBSvWPgNFWzlqibXcHJOIkeI"></a>
+<a href=""><img align="left" height="135px" width="135px" alt="ClaytonFerraz-pic" src="https://user-images.githubusercontent.com/76459155/194717879-0f5fb0cf-db66-4e07-a9f8-a4668be1b6ad.png"></a>
 
 **Clayton Ferraz - Analista de Sistemas, Professor de Curso Técnico e Superior & Coordenador de Curso Superior de Tecnologia em ADS** \
 [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Desde Março de 2014</i> \
