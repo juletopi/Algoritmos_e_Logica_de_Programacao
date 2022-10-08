@@ -57,6 +57,42 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
 </div>
 
+## 📚 Conceitos Aprendidos:
+### 1. Blablabla
+Blablabla
+- Blablabla
+- Blablabla
+- Blablabla
+```c#
+
+```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+</div>
+
+### 2. Blablabla
+Blablabla
+- Blablabla
+- Blablabla
+- Blablabla
+```c#
+
+```
+
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+</div>
+
+### 3. Blablabla
+Blablabla
+- Blablabla
+- Blablabla
+- Blablabla
+```c#
+
+```
+
 ###
 &nbsp;
 
