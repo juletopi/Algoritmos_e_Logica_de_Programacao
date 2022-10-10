@@ -59,13 +59,50 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 </div>
 
 ## 📚 Conceitos Aprendidos:
-### 1. Blablabla
-Blablabla
-- Blablabla
-- Blablabla
-- Blablabla
-```c#
+### 1. Comentários, declaração de variáveis e comandos do console
+Aula inicial ministrada pelo professor Clayton Ferraz
 
+Nesta aula foram aprendidos:
+- Conceitos básicos para o uso do Visual Studio
+- Utilização do Visual Studio para conceitos matemáticos
+- Criação de algoritmos matemáticos usando lógica de programação e comandos de console
+```c#
+// Na criação de um "algoritmo", podemos seguir este sete passos:
+// 1.NOME, 2.INÍCIO, 3.DADOS/VARIÁVEIS, 4.ENTRADA, 5.PROCESSAMENTO, 6.SAÍDA, 7.FIM
+
+// 1.NOME:
+namespace Calculadora_CSharp
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // 2.INÍCIO
+            // Faça um algorítimo que receba dois valores e mostre
+            // a soma desses dois valores.
+
+            // 3.DADOS/VARIÁVEIS
+            double n1 = 0;
+            double n2 = 0;
+            double soma = 0;
+
+            // 4.ENTRADA
+            Console.WriteLine("Digite o primeiro número:");
+            n1 = double.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o segundo número:");
+            n2 = double.Parse(Console.ReadLine());
+
+            // 5.PROCESSAMENTO
+            soma = n1 + n2;
+
+            // 6.SAÍDA
+            Console.WriteLine("Os números somados são: " +soma);
+            Console.ReadKey();
+            
+            // 7.FIM :)
+        }
+    }        
+}        
 ```
 
 <div align="center">
