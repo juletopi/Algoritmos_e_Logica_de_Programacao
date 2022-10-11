@@ -117,8 +117,9 @@ Nesta aula foram aprendidos:
 - Possibilidades de instrução
 ```c#
 {
-    // "If/Else" é um comando que existe para executar uma de duas possibilidades de instrução:
-    // No caso de se a expressão "if" original ser avaliada como FALSE, a expressão secundária "else" será executada.
+    // "If/Else" é um comando que existe para executar uma de duas possibilidades
+    // de instrução. No caso de se a expressão original "if" ser avaliada como 
+    // FALSE, a expressão secundária "else" será executada.
 
     double saldo = 2000;
     double saque = 0;
@@ -150,7 +151,65 @@ Nesta aula foram aprendidos:
 - Utilização do comando "Switch/Case"
 - Estrutura de múltiplas escolhas
 ```c#
+{
+    // Em alguma situações você pode usar o "If/Else" ou o "Switch/Case" para resolver o 
+    // mesmo problema. Apesar de serem comandos parecidos, funcionam de formas diferentes.
+    // Normalmente se usa o comando do "Switch/Case" quando há diversas variáveis, executando 
+    // uma peça diferente do código dependendo de qual valor ele se encaixar.
 
+    string curso;
+    string turma;
+    int opc_curso = 0;
+    int opc_turma = 0;
+
+    Console.WriteLine("O que você deseja cursar?");
+    Console.WriteLine("Digite 1 para o curso de ADS");
+    Console.WriteLine("Digite 2 para o curso de Química");
+    Console.WriteLine("Digite 3 para o curso de Florestas");
+    opc_curso = Convert.ToInt32(Console.ReadLine());
+
+    switch (opc_curso)
+    {
+        case 1:
+            curso = "ADS";
+        break;
+
+        case 2:
+            curso = "Química";
+        break;
+
+        case 3:
+            curso = "Florestas";
+        break;
+
+        default:
+            Console.WriteLine("Você digitou alguma informação errada!!!");
+            curso = "Sem curso definido.";
+        break;
+    }
+    switch (opc_turma)
+    {
+        case 1:
+            turma = "A";
+        break;
+
+        case 2:
+            turma = "B";
+        break;
+
+        case 3:
+            turma = "C";
+        break;
+
+        default:
+            Console.WriteLine("Você digitou alguma informação errada!!!");
+        turma = "Sem turma definida.";
+        break;
+    }
+ Console.WriteLine("O seu curso escolhido é: " +curso);
+ Console.WriteLine("A sua turma escolhida é: " +turma);
+ Console.ReadKey();
+}
 ```
 
 ###
