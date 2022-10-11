@@ -60,7 +60,7 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 
 ## 📚 Conceitos Aprendidos:
 ### 1. Comentários, declaração de variáveis e comandos do console
-Aula inicial ministrada pelo professor Clayton Ferraz
+*Retirado da aula de "[Calculadora_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Calculadora_CSharp/Program.cs)"*
 
 Nesta aula foram aprendidos:
 - Conceitos básicos para o uso do Visual Studio
@@ -109,24 +109,46 @@ namespace Calculadora_CSharp
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
 </div>
 
-### 2. Blablabla
-Blablabla
-- Blablabla
-- Blablabla
-- Blablabla
-```c#
+### 2. Conceitos de "If/Else"
+*Retirado da aula de "[Saque_Bancario_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Saque_Bancario_CSharp/Program.cs)"*
 
+Nesta aula foram aprendidos:
+- Utilização do comando "If/Else"
+- Possibilidades de instrução
+```c#
+{
+    // "If/Else" é um comando que existe para executar uma de duas possibilidades de instrução:
+    // No caso de se a expressão "if" original ser avaliada como FALSE, a expressão secundária "else" será executada.
+
+    double saldo = 2000;
+    double saque = 0;
+
+    Console.WriteLine("Digite o quanto quer sacar (Somente números):");
+    saque = double.Parse(Console.ReadLine());
+
+    if (saque <= saldo)
+    {
+        saldo = (saldo - saque);
+        Console.WriteLine("Saque efetudado com sucesso! O seu saldo agora, é de: R$" +saldo);
+    }
+    else
+    {
+        Console.WriteLine("Saldo insuficiente, o saque não foi efetuado! Seu saldo é de: R$" +saldo);
+    }
+ Console.ReadKey();
+}
 ```
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
 </div>
 
-### 3. Blablabla
-Blablabla
-- Blablabla
-- Blablabla
-- Blablabla
+### 3. Conceitos de "Switch/Case"
+*Retirado da aula de "[Escolha_de_Cursos_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Escolha_de_Cursos_CSharp/Program.cs)"*
+
+Nesta aula foram aprendidos:
+- Utilização do comando "Switch/Case"
+- Estrutura de múltiplas escolhas
 ```c#
 
 ```
