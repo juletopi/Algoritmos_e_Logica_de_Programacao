@@ -157,10 +157,8 @@ Nesta aula foram aprendidos:
     // Normalmente se usa o comando do "Switch/Case" quando há diversas variáveis, executando 
     // uma peça diferente do código dependendo de qual valor ele se encaixar.
 
-    string curso;
-    string turma;
-    int opc_curso = 0;
-    int opc_turma = 0;
+    string curso, string turma;
+    int opc_curso = 0, int opc_turma = 0;
 
     Console.WriteLine("O que você deseja cursar?");
     Console.WriteLine("Digite 1 para o curso de ADS");
@@ -173,15 +171,12 @@ Nesta aula foram aprendidos:
         case 1:
             curso = "ADS";
         break;
-
         case 2:
             curso = "Química";
         break;
-
         case 3:
             curso = "Florestas";
         break;
-
         default:
             Console.WriteLine("Você digitou alguma informação errada!!!");
             curso = "Sem curso definido.";
@@ -192,15 +187,12 @@ Nesta aula foram aprendidos:
         case 1:
             turma = "A";
         break;
-
         case 2:
             turma = "B";
         break;
-
         case 3:
             turma = "C";
         break;
-
         default:
             Console.WriteLine("Você digitou alguma informação errada!!!");
         turma = "Sem turma definida.";
