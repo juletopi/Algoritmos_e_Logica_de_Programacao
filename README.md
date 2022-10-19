@@ -103,11 +103,11 @@ namespace Calculadora_CSharp
             // 6.SAÍDA
             Console.WriteLine("Os números somados são: " +soma);
             Console.ReadKey();
-            
-            // 7.FIM :)
+
         }
-    }        
-}        
+    }
+}
+// 7.FIM :)
 ```
 
 <div align="center">
