@@ -103,7 +103,6 @@ namespace Calculadora_CSharp
             // 6.SAÍDA
             Console.WriteLine("Os números somados são: " +soma);
             Console.ReadKey();
-
         }
     }
 }
