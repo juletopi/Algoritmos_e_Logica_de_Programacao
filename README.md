@@ -208,6 +208,43 @@ Nesta aula foram aprendidos:
 }
 ```
 
+<div align="center">
+<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+</div>
+
+### 4. Conceitos de "For/While"
+*Retirado da aula de "[Tabuada_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/tree/main/Tabuada_CSharp)"*
+
+Nesta aula foram aprendidos:
+- Conceitos de "For/While"
+- Utilização do comando "For"
+- Estrutura de repetição
+```c#
+{
+    // As estruturas de repetição são utilizadas para processar uma coleção
+    // de dados, que precisam ser processados por um mesmo bloco de código.
+    // O FOR é mais usado para loops definidos e WHILE para loops infinitos.
+
+    // Exemplo usando o FOR: Tabuada de um número até onde o usuário quiser ↴
+    
+    int i, n, m;
+    int resultado;
+
+    Console.WriteLine("Defina um número para exibir a tabuada dele:");
+    n = int.Parse(Console.ReadLine());
+    Console.WriteLine("\r\nQuantas vezes?");
+    m = int.Parse(Console.ReadLine());
+    Console.WriteLine("");
+
+    for (i = 1; i <= m; i++)
+    {
+        resultado = n * i;
+        Console.WriteLine(n + " x " + i + " = " + resultado);
+    }
+ Console.ReadKey();
+}
+```
+
 ###
 &nbsp;
 
