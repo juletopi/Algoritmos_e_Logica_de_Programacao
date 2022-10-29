@@ -94,14 +94,14 @@ namespace Calculadora_CSharp
             // 4.ENTRADA
             Console.WriteLine("Digite o primeiro número:");
             n1 = double.Parse(Console.ReadLine());
-            Console.WriteLine("Digite o segundo número:");
+            Console.WriteLine("\r\nDigite o segundo número:");
             n2 = double.Parse(Console.ReadLine());
 
             // 5.PROCESSAMENTO
             soma = n1 + n2;
 
             // 6.SAÍDA
-            Console.WriteLine("Os números somados são: " +soma);
+            Console.WriteLine("\r\nOs números somados são: " +soma);
             Console.ReadKey();
         }
     }
@@ -125,20 +125,22 @@ Nesta aula foram aprendidos:
     // de instrução. No caso de se a expressão original "if" ser avaliada como 
     // FALSE, a expressão secundária "else" será executada.
 
-    double saldo = 2000;
+    double saldo = 0;
     double saque = 0;
 
-    Console.WriteLine("Digite o quanto quer sacar (Somente números):");
+    Console.WriteLine("Informe seu saldo (Somente números):");
+    saldo = double.Parse(Console.ReadLine());
+    Console.WriteLine("\r\nDigite o quanto quer sacar (Somente números):");
     saque = double.Parse(Console.ReadLine());
 
     if (saque <= saldo)
     {
         saldo = (saldo - saque);
-        Console.WriteLine("Saque efetudado com sucesso! O seu saldo agora, é de: R$" +saldo);
+        Console.WriteLine("\r\nSaque efetudado com sucesso! O seu saldo agora, é de: R$" +saldo +"!");
     }
     else
     {
-        Console.WriteLine("Saldo insuficiente, o saque não foi efetuado! Seu saldo é de: R$" +saldo);
+        Console.WriteLine("\r\nSaldo insuficiente, o saque não foi efetuado! Seu saldo é de: R$" +saldo +"!");
     }
  Console.ReadKey();
 }
@@ -156,16 +158,16 @@ Nesta aula foram aprendidos:
 - Estrutura de múltiplas escolhas
 ```c#
 {
-    // Em alguma situações você pode usar o "If/Else" ou o "Switch/Case" para resolver o 
-    // mesmo problema. Apesar de serem comandos parecidos, funcionam de formas diferentes.
-    // Normalmente se usa o comando do "Switch/Case" quando há diversas variáveis, executando 
-    // uma peça diferente do código dependendo de qual valor ele se encaixar.
+    // Em alguma situações você pode usar o "If/Else" ou o "Switch/Case" para resolver
+    // o mesmo problema. Apesar de serem comandos parecidos, funcionam de formas diferentes.
+    // Normalmente se usa o comando do "Switch/Case" quando há diversas variáveis,
+    // executando uma peça diferente do código dependendo de qual valor ele se encaixar.
 
     string curso, string turma;
     int opc_curso = 0, int opc_turma = 0;
 
     Console.WriteLine("O que você deseja cursar?");
-    Console.WriteLine("Digite 1 para o curso de ADS");
+    Console.WriteLine("\r\nDigite 1 para o curso de ADS");
     Console.WriteLine("Digite 2 para o curso de Química");
     Console.WriteLine("Digite 3 para o curso de Florestas");
     opc_curso = Convert.ToInt32(Console.ReadLine());
@@ -182,7 +184,7 @@ Nesta aula foram aprendidos:
             curso = "Florestas";
         break;
         default:
-            Console.WriteLine("Você digitou alguma informação errada!!!");
+            Console.WriteLine("\r\nVocê digitou alguma informação errada!!!");
             curso = "Sem curso definido.";
         break;
     }
@@ -198,11 +200,11 @@ Nesta aula foram aprendidos:
             turma = "C";
         break;
         default:
-            Console.WriteLine("Você digitou alguma informação errada!!!");
+            Console.WriteLine("\r\nVocê digitou alguma informação errada!!!");
         turma = "Sem turma definida.";
         break;
     }
- Console.WriteLine("O seu curso escolhido é: " +curso);
+ Console.WriteLine("\r\nO seu curso escolhido é: " +curso);
  Console.WriteLine("A sua turma escolhida é: " +turma);
  Console.ReadKey();
 }
