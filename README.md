@@ -69,7 +69,7 @@ Nesta aula foram aprendidos:
 - Utilização do Visual Studio para conceitos matemáticos
 - Criação de algoritmos matemáticos usando lógica de programação e comandos de console
 ```c#
-// Na criação de um "algoritmo", podemos seguir este sete passos:
+// Na criação de um "algoritmo", podemos seguir este sete passos ↴
 // 1.NOME, 2.INÍCIO, 3.DADOS/VARIÁVEIS, 4.ENTRADA, 5.PROCESSAMENTO, 6.SAÍDA, 7.FIM
 
 // 1.NOME:
@@ -121,6 +121,8 @@ Nesta aula foram aprendidos:
     // "If/Else" é um comando que existe para executar uma de duas possibilidades
     // de instrução. No caso de se a expressão original "if" ser avaliada como 
     // FALSE, a expressão secundária "else" será executada.
+    
+    // Exemplo: Saque bancário baseado no saldo informado ↴
 
     double saldo = 0;
     double saque = 0;
@@ -159,9 +161,11 @@ Nesta aula foram aprendidos:
     // o mesmo problema. Apesar de serem comandos parecidos, funcionam de formas diferentes.
     // Normalmente se usa o comando do "Switch/Case" quando há diversas variáveis,
     // executando uma peça diferente do código dependendo de qual valor ele se encaixar.
+    
+    // Exemplo: Tabela de escolha de cursos ↴
 
     string curso, string turma;
-    int opc_curso = 0, int opc_turma = 0;
+    int opc_curso = 0;
 
     Console.WriteLine("O que você deseja cursar?");
     Console.WriteLine("\r\nDigite 1 para o curso de ADS");
@@ -185,24 +189,7 @@ Nesta aula foram aprendidos:
             curso = "Sem curso definido.";
         break;
     }
-    switch (opc_turma)
-    {
-        case 1:
-            turma = "A";
-        break;
-        case 2:
-            turma = "B";
-        break;
-        case 3:
-            turma = "C";
-        break;
-        default:
-            Console.WriteLine("\r\nVocê digitou alguma informação errada!!!");
-        turma = "Sem turma definida.";
-        break;
-    }
  Console.WriteLine("\r\nO seu curso escolhido é: " +curso);
- Console.WriteLine("A sua turma escolhida é: " +turma);
  Console.ReadKey();
 }
 ```
