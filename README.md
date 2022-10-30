@@ -232,7 +232,8 @@ Nesta aula foram aprendidos:
 ```
 
 <br>
-<br>
+
+----
 
 <div align="center">
 <a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ObrigadoPorVisitar(Verde)-pic.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189613140-c148ff12-a7f8-4fe8-8e04-109452c86aba.png" width="500" height="60" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
