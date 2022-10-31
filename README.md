@@ -62,7 +62,7 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 
 ## 📚 Conceitos Aprendidos:
 ### 1. Comentários, declaração de variáveis e comandos do console
-*Retirado da aula de "[Calculadora_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Calculadora_CSharp/Program.cs)"*
+> *Retirado da aula de "[Calculadora_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Calculadora_CSharp/Program.cs)"*
 
 Nesta aula foram aprendidos:
 - Conceitos básicos para o uso do Visual Studio
@@ -111,7 +111,7 @@ namespace Calculadora_CSharp
 </div>
 
 ### 2. Conceitos de "If/Else"
-*Retirado da aula de "[Saque_Bancario_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Saque_Bancario_CSharp/Program.cs)"*
+> *Retirado da aula de "[Saque_Bancario_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Saque_Bancario_CSharp/Program.cs)"*
 
 Nesta aula foram aprendidos:
 - Utilização do comando "If/Else"
@@ -150,7 +150,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 3. Conceitos de "Switch/Case"
-*Retirado da aula de "[Escolha_de_Cursos_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Escolha_de_Cursos_CSharp/Program.cs)"*
+> *Retirado da aula de "[Escolha_de_Cursos_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Escolha_de_Cursos_CSharp/Program.cs)"*
 
 Nesta aula foram aprendidos:
 - Utilização do comando "Switch/Case"
@@ -199,7 +199,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 4. Conceitos de "For/While"
-*Retirado da aula de "[Tabuada_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/tree/main/Tabuada_CSharp)"*
+> *Retirado da aula de "[Tabuada_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/tree/main/Tabuada_CSharp)"*
 
 Nesta aula foram aprendidos:
 - Conceitos de "For/While"
