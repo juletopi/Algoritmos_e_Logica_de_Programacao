@@ -1,0 +1,8 @@
+C:\Users\julio\source\repos\Atividade - 3 Questões C#\Algoritmo_Triplo_CSharp\bin\Debug\Algoritmo_Triplo_CSharp.exe.config
+C:\Users\julio\source\repos\Atividade - 3 Questões C#\Algoritmo_Triplo_CSharp\bin\Debug\Algoritmo_Triplo_CSharp.exe
+C:\Users\julio\source\repos\Atividade - 3 Questões C#\Algoritmo_Triplo_CSharp\bin\Debug\Algoritmo_Triplo_CSharp.pdb
+C:\Users\julio\source\repos\Atividade - 3 Questões C#\Algoritmo_Triplo_CSharp\obj\Debug\Algoritmo_Triplo_CSharp.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Atividade - 3 Questões C#\Algoritmo_Triplo_CSharp\obj\Debug\Algoritmo_Triplo_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\Atividade - 3 Questões C#\Algoritmo_Triplo_CSharp\obj\Debug\Algoritmo_Triplo_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Atividade - 3 Questões C#\Algoritmo_Triplo_CSharp\obj\Debug\Algoritmo_Triplo_CSharp.exe
+C:\Users\julio\source\repos\Atividade - 3 Questões C#\Algoritmo_Triplo_CSharp\obj\Debug\Algoritmo_Triplo_CSharp.pdb
