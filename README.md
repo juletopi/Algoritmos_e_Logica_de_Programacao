@@ -19,7 +19,7 @@
 <!-- PRESENTATION -->
 
 <div align="center">
-<a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://user-images.githubusercontent.com/76459155/199731620-a4b5b177-51fa-4438-b156-a688add7e716.png" alt="Algorithms-pic" width="116px"></a>
+<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/Algorithms-pic.png"><img src="https://user-images.githubusercontent.com/76459155/199731620-a4b5b177-51fa-4438-b156-a688add7e716.png" alt="Algorithms-pic" width="116px"></a>
 <h2 align="center">Algoritmos e Lógica de Programação 👩‍💻</h2>
 </div>
 
