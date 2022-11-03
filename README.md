@@ -16,6 +16,8 @@
 
 <br>
 
+<!-- PRESENTATION -->
+
 <div align="center">
 <a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="HackerBongoCat-gif" width="100px"></a>
 <h2 align="center">Algoritmos e Lógica de Programação 👩‍💻</h2>
@@ -43,6 +45,8 @@ linguagem **CSharp** como ferramentas de aprendizado.
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Medir%20o%20progresso%20da%20programação%20por%20linhas%20de%20código%20é%20como%20medir%20o%20progresso%20da%20construção%20de%20aeronaves%20em%20termos%20de%20peso.&author=Bill%20Gates)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
+<!-- ABOUT TEACHER -->
+
 <div align="left">
 
 ## 👨‍🏫 Professor:
@@ -59,6 +63,8 @@ Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
 </div>
+
+<!-- LEARNED CONCEPTS -->
 
 ## 📚 Conceitos Aprendidos:
 ### 1. Comentários, declaração de variáveis e comandos do console
@@ -232,6 +238,8 @@ Nesta aula foram aprendidos:
 ```
 
 <br>
+
+<!-- THANK YOU, GOODBYE -->
 
 ----
 
