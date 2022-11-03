@@ -19,7 +19,7 @@
 <!-- PRESENTATION -->
 
 <div align="center">
-<a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://cdn3.emoji.gg/emojis/1261-hackerbongocat.gif" alt="HackerBongoCat-gif" width="100px"></a>
+<a href="https://emoji.gg/emoji/1261-hackerbongocat"><img src="https://user-images.githubusercontent.com/76459155/199731620-a4b5b177-51fa-4438-b156-a688add7e716.png" alt="Algorithms-pic" width="116px"></a>
 <h2 align="center">Algoritmos e Lógica de Programação 👩‍💻</h2>
 </div>
 
