@@ -205,7 +205,7 @@ Nesta aula foram aprendidos:
 </div>
 
 ### 4. Conceitos de "For/While"
-> *Retirado da aula de "[Tabuada_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/tree/main/Tabuada_CSharp)"*
+> *Retirado da aula de "[Tabuada_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Tabuada_CSharp/Program.cs)"*
 
 Nesta aula foram aprendidos:
 - Conceitos de "For/While"
