@@ -1,0 +1,8 @@
+C:\Users\julio\source\repos\Avaliacao_de_Algoritmos_1\2022-2_EXERCICIO_01\obj\Debug\2022-2_EXERCICIO_01.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Avaliacao_de_Algoritmos_1\2022-2_EXERCICIO_01\obj\Debug\2022-2_EXERCICIO_01.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\Avaliacao_de_Algoritmos_1\2022-2_EXERCICIO_01\obj\Debug\2022-2_EXERCICIO_01.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Avaliacao_de_Algoritmos_1\2022-2_EXERCICIO_01\bin\Debug\2022-2_EXERCICIO_01.exe.config
+C:\Users\julio\source\repos\Avaliacao_de_Algoritmos_1\2022-2_EXERCICIO_01\bin\Debug\2022-2_EXERCICIO_01.exe
+C:\Users\julio\source\repos\Avaliacao_de_Algoritmos_1\2022-2_EXERCICIO_01\bin\Debug\2022-2_EXERCICIO_01.pdb
+C:\Users\julio\source\repos\Avaliacao_de_Algoritmos_1\2022-2_EXERCICIO_01\obj\Debug\2022-2_EXERCICIO_01.exe
+C:\Users\julio\source\repos\Avaliacao_de_Algoritmos_1\2022-2_EXERCICIO_01\obj\Debug\2022-2_EXERCICIO_01.pdb
