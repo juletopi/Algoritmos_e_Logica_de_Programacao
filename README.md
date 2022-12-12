@@ -34,7 +34,21 @@ linguagem **CSharp** como ferramentas de aprendizado.
 <a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Made%20with%20IDE:-Visual%20Studio%20-gray.svg?colorA=655BE1&amp;colorB=4F44D6&amp;style=for-the-badge" alt="VisualStudioIDE-badge" style="max-width: 100%;"></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/Made%20with%20language:-CSharp%20-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" alt="CSharpLanguage-badge" style="max-width: 100%;"></a>
 </div>
-<br>
+
+<!-- SUMMARY -->
+
+<div align="center">
+
+## Sumário 🧾
+<p align="center">
+<a href="#-professor">Professor</a> &#xa0; | &#xa0;
+<a href="#1-coment%C3%A1rios-declara%C3%A7%C3%A3o-de-vari%C3%A1veis-e-comandos-do-console">Conceitos Aprendidos 1</a> &#xa0; | &#xa0;
+<a href="#2-conceitos-de-ifelse">Conceitos Aprendidos 2</a>
+</p>
+<a href="#3-conceitos-de-switchcase">Conceitos Aprendidos 3</a> &#xa0; | &#xa0;
+<a href="#4-conceitos-de-forwhile">Conceitos Aprendidos 4</a>
+</p>
+</div>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
