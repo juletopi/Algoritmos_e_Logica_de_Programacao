@@ -126,9 +126,7 @@ namespace Calculadora_CSharp
 // 7.FIM :)
 ```
 <h6 align="left">
-<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
@@ -169,9 +167,7 @@ Nesta aula foram aprendidos:
 }
 ```
 <h6 align="left">
-<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
@@ -222,9 +218,7 @@ Nesta aula foram aprendidos:
 }
 ```
 <h6 align="left">
-<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a></h6>
 
 <div align="center">
 <img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
@@ -263,9 +257,7 @@ Nesta aula foram aprendidos:
 }
 ```
 <h6 align="left">
-<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a>
-<br>
-<br>
+<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a></h6>
 
 <br>
 
