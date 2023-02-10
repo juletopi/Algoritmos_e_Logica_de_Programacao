@@ -265,6 +265,14 @@ Nesta aula foram aprendidos:
 
 <br>
 
+<div align="center">
+
+> **Warning** \
+> A partir deste ponto, se inicia: \
+> **"Algoritmos e Lógica de Programação II"**
+
+<br>
+
 <!-- THANK YOU, GOODBYE -->
 
 ----
