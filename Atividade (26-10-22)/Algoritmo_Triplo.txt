@@ -1,9 +1,0 @@
-Algoritmos e Lógica de Programação I
-DATA: 26/10/2022
-
-Algoritmo Triplo
-
-Elabore um algoritmo que mostre um leque de três opções que leia e resulte em:
-1. Uma sequência de números de forma CRESCENTE
-2. Uma sequência de números de forma DECRESCENTE
-3. Uma tabuada interativa em que o usuário escolha até onde calcular
