@@ -274,7 +274,7 @@ Nesta aula foram aprendidos:
 ----
 
 <div align="center">
-<a href="#"><img src="https://user-images.githubusercontent.com/76459155/223619311-556990b7-b214-4eb0-b114-c801d021a1a4.png" align="center" width="600" height="90" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
+<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ObrigadoPorVisitar(Verde)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/223619311-556990b7-b214-4eb0-b114-c801d021a1a4.png" align="center" width="600" height="90" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
 </div>
 
 <div align="center">
