@@ -267,6 +267,21 @@ Nesta aula foram aprendidos:
 > A partir deste ponto, se inicia: \
 > **"Algoritmos e Lógica de Programação II"**
 
+<div align="left">
+
+### 5. Conceitos de...
+> **Note** ➜ *Retirado da aula de "[----](https://)"*
+
+Nesta aula foram aprendidos:
+- 
+- 
+- 
+```c#
+
+```
+<h6 align="left">
+<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a></h6>
+
 <br>
 
 <!-- THANK YOU, GOODBYE -->
