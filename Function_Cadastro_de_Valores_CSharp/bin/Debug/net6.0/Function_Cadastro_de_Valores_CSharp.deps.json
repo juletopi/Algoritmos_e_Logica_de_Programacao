@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Function_Cadastro_de_Valores_CSharp/1.0.0": {
+        "runtime": {
+          "Function_Cadastro_de_Valores_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Function_Cadastro_de_Valores_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

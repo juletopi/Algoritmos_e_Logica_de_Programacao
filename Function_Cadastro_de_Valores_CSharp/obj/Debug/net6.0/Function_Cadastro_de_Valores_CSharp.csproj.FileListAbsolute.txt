@@ -1,0 +1,15 @@
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\bin\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.exe
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\bin\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.deps.json
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\bin\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.runtimeconfig.json
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\bin\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.dll
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\bin\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.pdb
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\obj\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\obj\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\obj\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\obj\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.AssemblyInfo.cs
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\obj\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\obj\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.dll
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\obj\Debug\net6.0\refint\Function_Cadastro_de_Valores_CSharp.dll
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\obj\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.pdb
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\obj\Debug\net6.0\Function_Cadastro_de_Valores_CSharp.genruntimeconfig.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Cadastro_de_Valores_CSharp\obj\Debug\net6.0\ref\Function_Cadastro_de_Valores_CSharp.dll
