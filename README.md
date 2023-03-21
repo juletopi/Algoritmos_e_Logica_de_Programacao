@@ -46,7 +46,8 @@ linguagem **CSharp** como ferramentas de aprendizado.
 <a href="#2-conceitos-de-ifelse">Conceitos Aprendidos 2</a>
 </p>
 <a href="#3-conceitos-de-switchcase">Conceitos Aprendidos 3</a> &#xa0; | &#xa0;
-<a href="#4-conceitos-de-forwhile">Conceitos Aprendidos 4</a>
+<a href="#4-conceitos-de-forwhile">Conceitos Aprendidos 4</a> &#xa0; | &#xa0;
+<a href="#5-conceitos-de-funções-e-métodos-de-array">Conceitos Aprendidos 5</a>
 </p>
 </div>
 
@@ -287,7 +288,7 @@ Nesta aula foram aprendidos:
 // Em resumo, as funções são uma parte fundamental da programação e ajudam a simplificar o código,
 // tornando-o mais legível, reutilizável e organizado.
 
-// Abaixo, temos um algoritmo de registro de produtos, usando as funções para melhor simplificar o código:
+// Abaixo, temos um algoritmo de registro de produtos, usando as funções para melhor simplificar o código ↴
 
 {
     int quant_prod = 0;
