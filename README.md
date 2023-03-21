@@ -270,14 +270,71 @@ Nesta aula foram aprendidos:
 <div align="left">
 
 ### 5. Conceitos de Funções e Métodos de Array
-> **Note** ➜ *Retirado da aula de "[Function_Cadastro_de_Valores_CSharp](https://)"*
+> **Note** ➜ *Retirado da aula de "[Function_Cadastro_de_Valores_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Function_Cadastro_de_Valores_CSharp/Program.cs)"*
 
 Nesta aula foram aprendidos:
 - Criação de funções dentro do algoritmo
 - Chamada de funções dentro do algoritmo
 - Simplificação de código para tarefas complexas
 ```c#
+// Uma função na programação é uma sequência de instruções que executa uma tarefa específica
+// e pode ser chamada e reutilizada em diferentes partes do programa.
 
+// As funções ajudam a simplificar o código porque permitem que uma tarefa complexa seja dividida em partes
+// menores e mais gerenciáveis. Isso torna o código mais legível, mais fácil de entender e de manter,
+// além de economizar tempo e esforço para o programador.
+
+// Em resumo, as funções são uma parte fundamental da programação e ajudam a simplificar o código,
+// tornando-o mais legível, reutilizável e organizado.
+
+// Abaixo, temos um algoritmo de registro de produtos, usando as funções para melhor simplificar o código:
+
+{
+    int quant_prod = 0;
+    double valor_total = 0;
+    double[] valor_prod;
+    string[] nome_prod;
+    double media_VP = 0;
+
+    Console.Write("\r\nEste programa registra quantos produtos precisar, com o seu nome e o seu valor.");
+    Console.WriteLine("\r\nDigite quantos produtos deseja cadastrar: ");
+    quant_prod = Convert.ToInt32(Console.ReadLine());
+    valor_prod = new double[quant_prod];
+    nome_prod = new string[quant_prod];
+
+    for (int i = 0; i < quant_prod; i++)
+    {
+        Console.WriteLine("\r\nDigite o nome do produto: ");
+        nome_prod[i] = Console.ReadLine();
+        Console.WriteLine("Digite o valor do produto: ");
+        valor_prod[i] = Convert.ToDouble(Console.ReadLine());
+        valor_total = somar(valor_total, valor_prod[i]);
+    }
+
+    media_VP = media(valor_total, quant_prod);
+
+    for (int i = 0; i < quant_prod; i++)
+    {
+        Console.WriteLine("\r\n Nome do " + (i+1) + "º produto: " + nome_prod[i]);
+        Console.WriteLine(" Valor do " + (i + 1) + "º produto: R$" + valor_prod[i].ToString("F"));
+    }
+    Console.WriteLine("\r\n O valor total da compra é: R$" + valor_total.ToString("F"));
+    Console.WriteLine(" A média da compra é: R$" + media_VP.ToString("F"));
+}
+
+static double somar(double a, double b)
+{
+    double soma = 0;
+    soma = a + b;
+    return soma;
+}
+
+static double media(double a, int b)
+{
+    double media = 0.00;
+    media = a / b;
+    return media;
+}
 ```
 <h6 align="left">
 <a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a></h6>
