@@ -269,13 +269,13 @@ Nesta aula foram aprendidos:
 
 <div align="left">
 
-### 5. Conceitos de...
-> **Note** ➜ *Retirado da aula de "[----](https://)"*
+### 5. Conceitos de Funções e Métodos de Array
+> **Note** ➜ *Retirado da aula de "[Function_Cadastro_de_Valores_CSharp](https://)"*
 
 Nesta aula foram aprendidos:
-- 
-- 
-- 
+- Criação de funções dentro do algoritmo
+- Chamada de funções dentro do algoritmo
+- Simplificação de código para tarefas complexas
 ```c#
 
 ```
