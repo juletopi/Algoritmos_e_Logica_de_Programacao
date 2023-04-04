@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Function_Clientes_e_Produtos_CSharp/1.0.0": {
+        "runtime": {
+          "Function_Clientes_e_Produtos_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Function_Clientes_e_Produtos_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
