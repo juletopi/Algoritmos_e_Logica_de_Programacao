@@ -44,7 +44,7 @@
 
 <!-- SUMMARY -->
 
-<h2 align="center">Summary 🧾</h2>
+<h2 align="center">Sumário 🧾</h2>
 
 <div align="center">
   <p align="center">
