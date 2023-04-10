@@ -10,8 +10,8 @@
 -->
 
 <div align="left">
-<img src="https://img.shields.io/github/license/juletopi/Algoritmos_e_Logica_de_Programacao" alt="MITLiscence-badge">
-<img src="https://github-visitors-badge.glitch.me/badge?page_id=Algoritmos_e_Logica_de_Programacao.github-visitors-badge" alt="PageVisitors-badge">
+  <img src="https://img.shields.io/github/license/juletopi/Algoritmos_e_Logica_de_Programacao" alt="MITLiscence-badge">
+  <img src="https://github-visitors-badge.glitch.me/badge?page_id=Algoritmos_e_Logica_de_Programacao.github-visitors-badge" alt="PageVisitors-badge">
 </div>
 
 <br>
@@ -19,45 +19,54 @@
 <!-- PRESENTATION -->
 
 <div align="center">
-<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/Algorithms-pic.png"><img src="https://user-images.githubusercontent.com/76459155/199731620-a4b5b177-51fa-4438-b156-a688add7e716.png" alt="Algorithms-pic" width="116px"></a>
-<h2 align="center">Algoritmos e Lógica de Programação 👩‍💻</h2>
+    <a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/Algorithms-pic.png">
+        <img src="https://user-images.githubusercontent.com/76459155/199731620-a4b5b177-51fa-4438-b156-a688add7e716.png" alt="Algorithms-pic" width="116px" title="Repositório de Algoritmos e Lógica de Programação">
+    </a>
+    <h2 align="center">Algoritmos e Lógica de Programação 👩‍💻</h2>
 </div>
 
 <div align="center">
-
-• Este é um repositório com o conteúdo das aulas de Algoritmos e Lógica de Programação, \
-ministradas pelo professor [**Clayton Ferraz**](https://www.linkedin.com/in/claytonferraz/), utilizando o **Visual Studio** e a \
-linguagem **CSharp** como ferramentas de aprendizado.
+ 
+  • Este é um repositório com o conteúdo das aulas de Algoritmos e Lógica de Programação, \
+  ministradas pelo professor [**Clayton Ferraz**](https://www.linkedin.com/in/claytonferraz/), utilizando o **Visual Studio** e a \
+  linguagem **CSharp** como ferramentas de aprendizado.
+ 
 </div>
 
 <div align="center">
-<a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Made%20with%20IDE:-Visual%20Studio%20-gray.svg?colorA=655BE1&amp;colorB=4F44D6&amp;style=for-the-badge" alt="VisualStudioIDE-badge" style="max-width: 100%;"></a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://img.shields.io/badge/Made%20with%20language:-CSharp%20-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" alt="CSharpLanguage-badge" style="max-width: 100%;"></a>
+  <a href="https://visualstudio.microsoft.com/">
+    <img src="https://img.shields.io/badge/Made%20with%20IDE:-Visual%20Studio%20-gray.svg?colorA=655BE1&amp;colorB=4F44D6&amp;style=for-the-badge" alt="VisualStudioIDE-badge" style="max-width: 100%;">
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img src="https://img.shields.io/badge/Made%20with%20language:-CSharp%20-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" alt="CSharpLanguage-badge" style="max-width: 100%;">
+  </a>
 </div>
 
 <!-- SUMMARY -->
 
-<div align="center">
+<h2 align="center">Summary 🧾</h2>
 
-## Sumário 🧾
-<p align="center">
-<a href="#-professor">Professor</a> &#xa0; | &#xa0;
-<a href="#1-coment%C3%A1rios-declara%C3%A7%C3%A3o-de-vari%C3%A1veis-e-comandos-do-console">Conceitos Aprendidos 1</a> &#xa0; | &#xa0;
-<a href="#2-conceitos-de-ifelse">Conceitos Aprendidos 2</a>
-</p>
-<a href="#3-conceitos-de-switchcase">Conceitos Aprendidos 3</a> &#xa0; | &#xa0;
-<a href="#4-conceitos-de-forwhile">Conceitos Aprendidos 4</a> &#xa0; | &#xa0;
-<a href="#5-conceitos-de-funções-e-métodos-de-array">Conceitos Aprendidos 5</a>
-</p>
+<div align="center">
+  <p align="center">
+    <a href="#-professor">Professor</a> &#xa0; | &#xa0;
+    <a href="#1-coment%C3%A1rios-declara%C3%A7%C3%A3o-de-vari%C3%A1veis-e-comandos-do-console">Conceitos Aprendidos 1</a> &#xa0; | &#xa0;
+    <a href="#2-conceitos-de-ifelse">Conceitos Aprendidos 2</a> 
+  </p>
+    <a href="#3-conceitos-de-switchcase">Conceitos Aprendidos 3</a> &#xa0; | &#xa0;
+    <a href="#4-conceitos-de-forwhile">Conceitos Aprendidos 4</a> &#xa0; | &#xa0;
+    <a href="#5-conceitos-de-funções-e-métodos-de-array">Conceitos Aprendidos 5</a>
+  </p>
 </div>
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+</div>
 
 <br>
-<br>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Medir%20o%20progresso%20da%20programação%20por%20linhas%20de%20código%20é%20como%20medir%20o%20progresso%20da%20construção%20de%20aeronaves%20em%20termos%20de%20peso.&author=Bill%20Gates)](https://github.com/piyushsuthar/github-readme-quotes)
+<div align="center">
+ 
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&quote=Medir%20o%20progresso%20da%20programação%20por%20linhas%20de%20código%20é%20como%20medir%20o%20progresso%20da%20construção%20de%20aeronaves%20em%20termos%20de%20peso.&author=Bill%20Gates)](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
 <!-- ABOUT TEACHER -->
@@ -66,29 +75,40 @@ linguagem **CSharp** como ferramentas de aprendizado.
 
 ## 👨‍🏫 Professor:
 
-<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ClaytonFerraz-pic.png"><img align="left" height="135px" width="135px" alt="ClaytonFerraz-pic" src="https://user-images.githubusercontent.com/76459155/194718233-86388040-0628-44bf-b28c-57d7535897f7.png"></a>
+<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ClaytonFerraz-pic.png">
+  <img align="left" height="135px" width="135px" alt="ClaytonFerraz-pic" title="Professor Clayton Ferraz" src="https://user-images.githubusercontent.com/76459155/194718233-86388040-0628-44bf-b28c-57d7535897f7.png">
+</a>
 
-**Clayton Ferraz - Analista de Sistemas | Professor de Curso Técnico e Superior | Coordenador de Curso Superior de Tecnologia em ADS** \
-[**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Atuando desde Março de 2014</i> \
-Linguagens & Tecnologias: `JavaScript` • `HTML` • `PHP` • `C#` • `GraphQL` • `E outros...` \
-Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
+  **Clayton Ferraz - Analista de Sistemas | Professor de Curso Técnico e Superior | Coordenador de Curso Superior de Tecnologia em ADS** \
+  [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Atuando desde Março de 2014</i> \
+  Linguagens & Tecnologias: `JavaScript` • `HTML` • `PHP` • `C#` • `GraphQL` • `E outros...` \
+  Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
+
+</div>
 
 <br>
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
 </div>
 
 <!-- LEARNED CONCEPTS -->
 
 ## 📚 Conceitos Aprendidos:
+
 ### 1. Comentários, declaração de variáveis e comandos do console
+
 > **Note** ➜ *Retirado da aula de "[Calculadora_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Calculadora_CSharp/Program.cs)"*
 
-Nesta aula foram aprendidos:
-- Conceitos básicos para o uso do Visual Studio
-- Utilização do Visual Studio para conceitos matemáticos
-- Criação de algoritmos matemáticos usando lógica de programação e comandos de console
+<div align="left">
+
+  Nesta aula foram aprendidos:
+  - Conceitos básicos para o uso do Visual Studio
+  - Utilização do Visual Studio para conceitos matemáticos
+  - Criação de algoritmos matemáticos usando lógica de programação e comandos de console
+ 
+</div>
+  
 ```c#
 // Na criação de um "algoritmo", podemos seguir este sete passos ↴
 // 1.NOME, 2.INÍCIO, 3.DADOS/VARIÁVEIS, 4.ENTRADA, 5.PROCESSAMENTO, 6.SAÍDA, 7.FIM
@@ -126,19 +146,27 @@ namespace Calculadora_CSharp
 }
 // 7.FIM :)
 ```
-<h6 align="left">
-<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a></h6>
+
+<div align="left">
+  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+</div>
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
 </div>
 
 ### 2. Conceitos de "If/Else"
+
 > **Note** ➜ *Retirado da aula de "[Saque_Bancario_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Saque_Bancario_CSharp/Program.cs)"*
 
-Nesta aula foram aprendidos:
-- Utilização do comando "If/Else"
-- Possibilidades de instrução
+<div align="left">
+ 
+  Nesta aula foram aprendidos:
+  - Utilização do comando "If/Else"
+  - Possibilidades de instrução
+ 
+</div>
+
 ```c#
 {
     // "If/Else" é um comando que existe para executar uma de duas possibilidades
@@ -167,19 +195,27 @@ Nesta aula foram aprendidos:
  Console.ReadKey();
 }
 ```
-<h6 align="left">
-<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a></h6>
+
+<div align="left">
+  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+</div>
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
 </div>
 
 ### 3. Conceitos de "Switch/Case"
+
 > **Note** ➜ *Retirado da aula de "[Escolha_de_Cursos_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Escolha_de_Cursos_CSharp/Program.cs)"*
 
-Nesta aula foram aprendidos:
-- Utilização do comando "Switch/Case"
-- Estrutura de múltiplas escolhas
+<div align="left">
+ 
+  Nesta aula foram aprendidos:
+  - Utilização do comando "Switch/Case"
+  - Estrutura de múltiplas escolhas
+ 
+</div>
+
 ```c#
 {
     // Em alguma situações você pode usar o "If/Else" ou o "Switch/Case" para resolver
@@ -218,20 +254,28 @@ Nesta aula foram aprendidos:
  Console.ReadKey();
 }
 ```
-<h6 align="left">
-<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a></h6>
+
+<div align="left">
+  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+</div>
 
 <div align="center">
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
 </div>
 
 ### 4. Conceitos de "For/While"
+
 > **Note** ➜ *Retirado da aula de "[Tabuada_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Tabuada_CSharp/Program.cs)"*
 
-Nesta aula foram aprendidos:
-- Conceitos de "For/While"
-- Utilização do comando "For"
-- Estrutura de repetição
+<div align="left">
+ 
+  Nesta aula foram aprendidos:
+  - Conceitos de "For/While"
+  - Utilização do comando "For"
+  - Estrutura de repetição
+ 
+</div>
+
 ```c#
 {
     // As estruturas de repetição são utilizadas para processar uma coleção
@@ -257,8 +301,10 @@ Nesta aula foram aprendidos:
  Console.ReadKey();
 }
 ```
-<h6 align="left">
-<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a></h6>
+
+<div align="left">
+  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+</div>
 
 <br>
 
@@ -268,15 +314,23 @@ Nesta aula foram aprendidos:
 > A partir deste ponto, se inicia: \
 > **"Algoritmos e Lógica de Programação II"**
 
+</div>
+
 <div align="left">
 
 ### 5. Conceitos de Funções e Métodos de Array
+
 > **Note** ➜ *Retirado da aula de "[Function_Cadastro_de_Valores_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Function_Cadastro_de_Valores_CSharp/Program.cs)"*
 
-Nesta aula foram aprendidos:
-- Criação de funções dentro do algoritmo
-- Chamada de funções dentro do algoritmo
-- Simplificação de código para tarefas complexas
+<div align="left">
+ 
+  Nesta aula foram aprendidos:
+  - Criação de funções dentro do algoritmo
+  - Chamada de funções dentro do algoritmo
+  - Simplificação de código para tarefas complexas
+ 
+</div>
+
 ```c#
 // Uma função na programação é uma sequência de instruções que executa uma tarefa específica
 // e pode ser chamada e reutilizada em diferentes partes do programa.
@@ -337,8 +391,10 @@ static double media(double a, int b)
     return media;
 }
 ```
-<h6 align="left">
-<a href="#algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-"> Voltar para o início ↺</a></h6>
+
+<div align="left">
+  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+</div>
 
 <br>
 
@@ -347,9 +403,11 @@ static double media(double a, int b)
 ----
 
 <div align="center">
-<a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ObrigadoPorVisitar(Verde)-pic.png"><img src="https://user-images.githubusercontent.com/76459155/223619311-556990b7-b214-4eb0-b114-c801d021a1a4.png" align="center" width="600" height="90" alt="ObrigadoPorVisitar(Verde)-pic"/></a>
+  <a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ObrigadoPorVisitar(Verde)-pic.png">
+    <img src="https://user-images.githubusercontent.com/76459155/223619311-556990b7-b214-4eb0-b114-c801d021a1a4.png" align="center" width="600" height="90" alt="ObrigadoPorVisitar(Verde)-pic" title="Bye bye! :)" />
+  </a>
 </div>
 
 <div align="center">
-Feito com 💚 por Juletopi
+  Feito com 💚 por Juletopi
 </div>
