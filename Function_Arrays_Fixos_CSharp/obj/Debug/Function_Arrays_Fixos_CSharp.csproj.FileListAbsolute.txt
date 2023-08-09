@@ -1,0 +1,3 @@
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Arrays_Fixos_CSharp\obj\Debug\Function_Arrays_Fixos_CSharp.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Arrays_Fixos_CSharp\obj\Debug\Function_Arrays_Fixos_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Arrays_Fixos_CSharp\obj\Debug\Function_Arrays_Fixos_CSharp.csproj.CoreCompileInputs.cache
