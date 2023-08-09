@@ -324,7 +324,7 @@ namespace Calculadora_CSharp
 ### 5. Conceitos e Métodos de Array/Funções
 
 > [!NOTE]\
-> *Retirado da aula de "[Function_Arrays_Fixos_CSharp(https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Function_Arrays_Fixos_CSharp/Program.cs)"*
+> *Retirado da aula de "[Function_Arrays_Fixos_CSharp(https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Function_Arrays_Fixos_CSharp/Program.cs)]"*
 
 <div align="left">
  
