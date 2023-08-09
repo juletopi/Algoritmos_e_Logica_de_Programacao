@@ -308,9 +308,9 @@ namespace Calculadora_CSharp
 <br>
 
 <div align="center">
-
-> **Warning** \
-> A partir deste ponto, se inicia: \
+  
+> [!WARNING]\
+> A partir deste ponto, se inicia:\
 > **"Algoritmos e Lógica de Programação II"**
 
 </div>
