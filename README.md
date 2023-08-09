@@ -97,7 +97,7 @@
 
 ### 1. Comentários, declaração de variáveis e comandos do console
 
-> **Note** ➜ *Retirado da aula de "[Calculadora_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Calculadora_CSharp/Program.cs)"*
+> [!NOTE] ➜ *Retirado da aula de "[Calculadora_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Calculadora_CSharp/Program.cs)"*
 
 <div align="left">
 
@@ -156,7 +156,7 @@ namespace Calculadora_CSharp
 
 ### 2. Conceitos de "If/Else"
 
-> **Note** ➜ *Retirado da aula de "[Saque_Bancario_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Saque_Bancario_CSharp/Program.cs)"*
+> [!NOTE] ➜ *Retirado da aula de "[Saque_Bancario_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Saque_Bancario_CSharp/Program.cs)"*
 
 <div align="left">
  
@@ -205,7 +205,7 @@ namespace Calculadora_CSharp
 
 ### 3. Conceitos de "Switch/Case"
 
-> **Note** ➜ *Retirado da aula de "[Escolha_de_Cursos_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Escolha_de_Cursos_CSharp/Program.cs)"*
+> [!NOTE] ➜ *Retirado da aula de "[Escolha_de_Cursos_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Escolha_de_Cursos_CSharp/Program.cs)"*
 
 <div align="left">
  
@@ -264,7 +264,7 @@ namespace Calculadora_CSharp
 
 ### 4. Conceitos de "For/While"
 
-> **Note** ➜ *Retirado da aula de "[Tabuada_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Tabuada_CSharp/Program.cs)"*
+> [!NOTE] ➜ *Retirado da aula de "[Tabuada_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Tabuada_CSharp/Program.cs)"*
 
 <div align="left">
  
@@ -319,7 +319,7 @@ namespace Calculadora_CSharp
 
 ### 5. Conceitos de Funções e Métodos de Array
 
-> **Note** ➜ *Retirado da aula de "[Function_Cadastro_de_Valores_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Function_Cadastro_de_Valores_CSharp/Program.cs)"*
+> [!NOTE] ➜ *Retirado da aula de "[Function_Cadastro_de_Valores_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Function_Cadastro_de_Valores_CSharp/Program.cs)"*
 
 <div align="left">
  
