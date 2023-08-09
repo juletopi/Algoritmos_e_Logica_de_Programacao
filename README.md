@@ -324,7 +324,7 @@ namespace Calculadora_CSharp
 ### 5. Conceitos e Métodos de Array/Funções
 
 > [!NOTE]\
-> *Retirado da aula de "[Function_Arrays_Fixos_CSharp(https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Function_Arrays_Fixos_CSharp/Program.cs)]"*
+> *Retirado da aula de "[Function_Arrays_Fixos_CSharp](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Function_Arrays_Fixos_CSharp/Program.cs)"*
 
 <div align="left">
  
@@ -344,7 +344,7 @@ namespace Calculadora_CSharp
 int[] valores = new int[3];
 string[] nomes = new string[3];
 
-            for (int i = 0; i < valores.Length; i++) // <-- O "for" é usado para inserir os valores dinamicamente.
+for (int i = 0; i < valores.Length; i++) // <-- O "for" é usado para inserir os valores dinamicamente.
 {
     Console.WriteLine("Digite valores: ");
     valores[i] = Convert.ToInt32(Console.ReadLine());
