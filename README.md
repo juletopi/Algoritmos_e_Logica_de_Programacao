@@ -53,7 +53,9 @@
   </p>
     <a href="#3-conceitos-de-switchcase">Conceitos Aprendidos 3</a> &#xa0; | &#xa0;
     <a href="#4-conceitos-de-forwhile">Conceitos Aprendidos 4</a> &#xa0; | &#xa0;
-    <a href="#5-conceitos-de-funções-e-métodos-de-array">Conceitos Aprendidos 5</a>
+    <a href="#5-conceitos-e-métodos-de-arrayfunções">Conceitos Aprendidos 5</a>
+  </p>
+    <a href="#6-conceitos-de-funções-e-métodos-de-array">Conceitos Aprendidos 6</a>
   </p>
 </div>
 
@@ -367,6 +369,90 @@ for (int i = 0; i < valores.Length; i++)
 
 int soma = valores[0] + valores[1] + valores[2]++;
 Console.WriteLine("Resultado da soma dos valores inseridos: " + soma); // <-- Somando os valores inseridos em cada índice.
+```
+
+<div align="left">
+  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+</div>
+
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+</div>
+
+### 6. Conceitos e Métodos de Array/Funções (Avançados)
+
+> [!NOTE]\
+> *Retirado da aula de "[Function_Arrays_Dinamicos](https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Function_Arrays_Dinamicos/Program.cs)"*
+
+<div align="left">
+ 
+  Nesta aula foram aprendidos:
+  - Conceitos mais avançados sobre funções/arrays
+  - Chamada mais dinâmica de funções dentro do algoritmo
+ 
+</div>
+
+```c#
+// Exemplo feito em aula (Cadastro de notas de alunos)
+
+int x = 0;
+
+Console.WriteLine("Digite quantos alunos deseja cadastrar: "); // <-- Pedindo para o usuário especificar 
+x = int.Parse(Console.ReadLine());                                 // quantos cadastros deseja fazer
+
+string[] nomeAluno;
+double[] nota1 = new double[x];
+double[] nota2 = new double[x];
+double[] media = new double[x];
+nomeAluno = new string[x];
+
+for (int i = 0; i < nomeAluno.Length; i++) // <-- É aplicado o "Lenght" somente a variáveis do tipo vetor/array
+{
+    Console.WriteLine("\r\nDigite o nome do aluno: ");
+    nomeAluno[i] = Console.ReadLine();
+
+    Console.WriteLine("Digite a 1º nota do aluno: ");
+    nota1[i] = Convert.ToDouble(Console.ReadLine());
+    Console.WriteLine("Digite a 2º nota do aluno: ");
+    nota2[i] = Convert.ToDouble(Console.ReadLine());
+
+    media[i] = (nota1[i] + nota2[i]) / 2;
+}
+
+Console.Clear();
+
+for (int i = 0; i < nomeAluno.Length; i++) // <-- Criando um efeito de "Calculando...", exibindo a mensagem 
+{                                              // "Calculando notas", seguida por 50 pontos impressos em uma
+    Console.Write("\r\n Calculando notas");    // linha, com um atraso de 30 milissegundos entre cada ponto
+    for (int j = 0; j < 50; j++)
+    {
+        System.Threading.Thread.Sleep(30);
+        Console.Write(".");
+    }
+
+    Console.WriteLine();
+    Console.WriteLine("\r\n-----------------------------------------");
+
+    Console.WriteLine(" As notas do aluno " + nomeAluno[i] + " são: ");
+    Console.WriteLine(" Nota 1: " + nota1[i] + "pts");
+    Console.WriteLine(" Nota 2: " + nota2[i] + "pts");
+    Console.WriteLine("\r\n A sua média é: " + media[i] + "pts");
+
+    if (media[i] >= 60)
+    {
+        Console.WriteLine("\r\n Está APROVADO!");
+    }
+    else
+    {
+        Console.WriteLine("\r\n Está REPROVADO!");
+    }
+
+    Console.WriteLine("\r\n Pressione ENTER para prosseguir...");
+
+    Console.WriteLine("-----------------------------------------");
+
+    Console.ReadKey();
+}
 ```
 
 <div align="left">
