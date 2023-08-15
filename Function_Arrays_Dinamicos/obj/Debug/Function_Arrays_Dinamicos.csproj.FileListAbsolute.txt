@@ -1,0 +1,8 @@
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Vetores_Multidimensionais\bin\Debug\Function_Vetores_Multidimensionais.exe.config
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Vetores_Multidimensionais\bin\Debug\Function_Vetores_Multidimensionais.exe
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Vetores_Multidimensionais\bin\Debug\Function_Vetores_Multidimensionais.pdb
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Vetores_Multidimensionais\obj\Debug\Function_Vetores_Multidimensionais.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Vetores_Multidimensionais\obj\Debug\Function_Vetores_Multidimensionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Vetores_Multidimensionais\obj\Debug\Function_Vetores_Multidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Vetores_Multidimensionais\obj\Debug\Function_Vetores_Multidimensionais.exe
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Vetores_Multidimensionais\obj\Debug\Function_Vetores_Multidimensionais.pdb
