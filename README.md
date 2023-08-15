@@ -331,7 +331,7 @@ namespace Calculadora_CSharp
   Nesta aula foram aprendidos:
   - Conceito sobre funções/arrays
   - Criação de funções/arrays
-  - Chamada dinâmica e fixa de funções dentro do algoritmo
+  - Chamada mais fixa de funções dentro do algoritmo
  
 </div>
 
