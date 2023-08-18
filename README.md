@@ -472,5 +472,5 @@ for (int i = 0; i < nomeAluno.Length; i++) // <-- Criando um efeito de "Calculan
 </div>
 
 <div align="center">
-  Feito com 💚 por Juletopi
+  Feito com 💚 por <a href="https://github.com/juletopi"> Juletopi</a>.
 </div>
