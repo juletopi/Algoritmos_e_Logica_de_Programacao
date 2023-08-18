@@ -40,6 +40,11 @@
     <img src="https://img.shields.io/badge/Made%20with%20language:-CSharp%20-gray.svg?colorA=61c265&amp;colorB=4CAF50&amp;style=for-the-badge" alt="CSharpLanguage-badge" style="max-width: 100%;">
   </a>
 </div>
+<div align="center">
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction">
+    <img src="https://img.shields.io/badge/Made%20with%20Framework:-.NET%20Framework-gray.svg?colorA=8731AB&amp;colorB=6C2D93&amp;style=for-the-badge" alt="NETFramework-badge" style="max-width: 100%;">
+  </a>
+</div>
 
 <!-- SUMMARY -->
 
