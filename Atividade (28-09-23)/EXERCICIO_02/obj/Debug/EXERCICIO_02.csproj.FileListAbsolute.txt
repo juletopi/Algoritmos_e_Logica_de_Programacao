@@ -1,0 +1,8 @@
+C:\Users\julio\source\repos\Visual Studio\CSharp\Atividade - Conceitos de Matrizes C#\EXERCICIO_02\bin\Debug\EXERCICIO_02.exe.config
+C:\Users\julio\source\repos\Visual Studio\CSharp\Atividade - Conceitos de Matrizes C#\EXERCICIO_02\bin\Debug\EXERCICIO_02.exe
+C:\Users\julio\source\repos\Visual Studio\CSharp\Atividade - Conceitos de Matrizes C#\EXERCICIO_02\bin\Debug\EXERCICIO_02.pdb
+C:\Users\julio\source\repos\Visual Studio\CSharp\Atividade - Conceitos de Matrizes C#\EXERCICIO_02\obj\Debug\EXERCICIO_02.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Atividade - Conceitos de Matrizes C#\EXERCICIO_02\obj\Debug\EXERCICIO_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Atividade - Conceitos de Matrizes C#\EXERCICIO_02\obj\Debug\EXERCICIO_02.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Atividade - Conceitos de Matrizes C#\EXERCICIO_02\obj\Debug\EXERCICIO_02.exe
+C:\Users\julio\source\repos\Visual Studio\CSharp\Atividade - Conceitos de Matrizes C#\EXERCICIO_02\obj\Debug\EXERCICIO_02.pdb
