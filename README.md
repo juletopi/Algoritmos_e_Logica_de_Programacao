@@ -484,6 +484,10 @@ for (int i = 0; i < nomeAluno.Length; i++) // <-- Criando um efeito de "Calculan
 ```c#
 // Exemplo feito em aula (Cadastro de clientes, produtos e preços)
 
+// Matrizes são usadas para organizar e manipular dados de maneira eficiente em 
+// uma estrutura tabular. Elas permitem armazenar informações relacionadas em 
+// um formato de grade, o que facilita o acesso rápido a elementos específicos.
+
 string[] nomeCliente;
 int[] quantProd;
 double[] precoProdTotal;
