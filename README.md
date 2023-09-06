@@ -464,6 +464,31 @@ for (int i = 0; i < nomeAluno.Length; i++) // <-- Criando um efeito de "Calculan
   <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
 </div>
 
+<div align="center">
+  <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=499627&height=4&section=header&%20render">
+</div>
+
+### 7. Conceitos e Métodos de Matrizes
+
+> [!NOTE]\
+> *Retirado da aula de "[----](https://github.com/juletopi/)"*
+
+<div align="left">
+ 
+  Nesta aula foram aprendidos:
+  - Conceitos sobre arrays/vetores multidimensionais (matrizes)
+  - Criação de matrizes
+ 
+</div>
+
+```c#
+
+```
+
+<div align="left">
+  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+</div>
+
 <br>
 
 <!-- THANK YOU, GOODBYE -->
