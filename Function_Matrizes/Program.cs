@@ -12,6 +12,10 @@ namespace Function_Matrizes
         {
             // Exemplo feito em aula (Cadastro de clientes, produtos e preços)
 
+            // Matrizes são usadas para organizar e manipular dados de maneira eficiente em 
+            // uma estrutura tabular. Elas permitem armazenar informações relacionadas em 
+            // um formato de grade, o que facilita o acesso rápido a elementos específicos.
+
             string[] nomeCliente;
             int[] quantProd;
             double[] precoProdTotal;
@@ -62,10 +66,8 @@ namespace Function_Matrizes
 
                 for (int j = 0; j < quantProd[i]; j++)
                 {
-                    Console.WriteLine("\r\nO " + (j + 1) + "º produto é: " +
-                   nomeProd[i][j]);
-                    Console.WriteLine("O " + (j + 1) + "º produto tem o valor de: "
-                   + precoProd[i][j]);
+                    Console.WriteLine("\r\nO " + (j + 1) + "º produto é: " + nomeProd[i][j]);
+                    Console.WriteLine("O " + (j + 1) + "º produto tem o valor de: " + precoProd[i][j]);
                 }
 
                 // Calcular o valor total das compras aqui, se necessário
