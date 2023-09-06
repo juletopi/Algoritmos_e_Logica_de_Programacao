@@ -1,0 +1,8 @@
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Matrizes\bin\Debug\Function_Matrizes.exe.config
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Matrizes\bin\Debug\Function_Matrizes.exe
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Matrizes\bin\Debug\Function_Matrizes.pdb
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Matrizes\obj\Debug\Function_Matrizes.csproj.AssemblyReference.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Matrizes\obj\Debug\Function_Matrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Matrizes\obj\Debug\Function_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Matrizes\obj\Debug\Function_Matrizes.exe
+C:\Users\julio\source\repos\Visual Studio\CSharp\Funções C#\Function_Matrizes\obj\Debug\Function_Matrizes.pdb
