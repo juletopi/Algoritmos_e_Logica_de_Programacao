@@ -27,7 +27,7 @@
 <div align="center">
  
   • Este é um repositório com o conteúdo das aulas de Algoritmos e Lógica de Programação, \
-  ministradas pelo professor [**Clayton Ferraz**](https://www.linkedin.com/in/claytonferraz/), utilizando o **Visual Studio** e a \
+  ministradas pelo professor [**Clayton Ferraz Andrade**](https://www.linkedin.com/in/claytonferraz/), utilizando o **Visual Studio** e a \
   linguagem **CSharp** como ferramentas de aprendizado.
  
 </div>
@@ -86,7 +86,7 @@
   <img align="left" height="135px" width="135px" alt="ClaytonFerraz-pic" title="Professor Clayton Ferraz" src="https://user-images.githubusercontent.com/76459155/194718233-86388040-0628-44bf-b28c-57d7535897f7.png">
 </a>
 
-  **Clayton Ferraz - Analista de Sistemas | Professor de Curso Técnico e Superior | Coordenador de Curso Superior de Tecnologia em ADS** \
+  **Clayton Ferraz Andrade - Analista de Sistemas | Professor de Curso Técnico e Superior | Coordenador de Curso Superior de Tecnologia em ADS** \
   [**IFRO Campus Ji-Paraná**](https://portal.ifro.edu.br/ji-parana) • <i>Atuando desde Março de 2014</i> \
   Linguagens & Tecnologias: `JavaScript` • `HTML` • `PHP` • `C#` • `GraphQL` • `E outros...` \
   Contato: **[clayton.andrade@ifro.edu.br](mailto:clayton.andrade@ifro.edu.br)**
