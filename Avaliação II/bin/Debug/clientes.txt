@@ -1,0 +1,14 @@
+Código: 112, Nome: Kauã, Peso: 68, Sexo: M, Idade: 22
+Aparelho: Alteres, Calorias: 200
+Aparelho: Barra, Calorias: 300
+Aparelho: Rosca, Calorias: 500
+Aparelho: ---, Calorias: 100
+Aparelho: ---, Calorias: 300
+-----------------------------------------
+Código: 113, Nome: Geovana, Peso: 64, Sexo: F, Idade: 26
+Aparelho: Alteres, Calorias: 300
+Aparelho: Barra, Calorias: 100
+Aparelho: Rosca, Calorias: 600
+Aparelho: ---, Calorias: 100
+Aparelho: ---, Calorias: 500
+-----------------------------------------
