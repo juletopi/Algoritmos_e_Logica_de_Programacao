@@ -10,7 +10,7 @@
 -->
 
 <div align="left">
-  <img src="https://img.shields.io/github/license/juletopi/Algoritmos_e_Logica_de_Programacao" alt="MITLiscence-badge">
+  <img src="https://img.shields.io/github/license/juletopi/Algoritmos_e_Logica_de_Programacao" alt="Licence-badge">
 </div>
 
 <br>
