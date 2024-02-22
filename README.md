@@ -553,13 +553,55 @@ for (int i = 0; i < quant; i++)
 
 <br>
 
+<!-- AUTHOR -->
+
+## 👤 Autor
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <div align="center">  
+        <a href="https://github.com/juletopi">
+          <img src="https://user-images.githubusercontent.com/76459155/220271784-9f930c36-c370-4518-9b56-604627c6e2b5.png" width="120px;" alt="JuletopiAvatar-pic" title="Autor: Juletopi" />
+          <br>
+          <sub><b>Júlio Cézar | Juletopi</b></sub>
+        </a>
+      </div>
+    </td>
+    <td valign="left" width="100%">
+      <div align="left">
+        <ul>
+          <li>
+            <sub><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="15" alt="LinkedIn-icon"> LinkedIn - <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">Júlio Cézar P. Camargo</a></sub>
+          </li>
+          <li>
+            <sub><img align="center" src="https://pngimg.com/uploads/email/email_PNG100738.png" height="15" alt="Facebook-icon"> Email - <a href="mailto:juliocezarpvh@hotmail.com">juliocezarpvh@hotmail.com</a></sub>
+          </li>
+          <li>
+            <sub><img align="center" src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="15" alt="WhatsApp-icon"> Whatsapp - <a href="http://api.whatsapp.com/send?phone=5569993606894">+55 (69) 9 9360-6894</a></sub>
+          </li>
+          <li>
+            <sub><img align="center" src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="15" alt="Instagram-icon"> Instagram - <a href="https://www.instagram.com/juletopi/">@juletopi</a></sub>
+          </li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<div align="left">
+  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+</div>
+
+<br>
+
 <!-- THANK YOU, GOODBYE -->
 
 ----
 
 <div align="center">
-  <a href="https://github.com/juletopi/Algoritmos_e_Logica_de_Programacao/blob/main/Assets/Images/ObrigadoPorVisitar(Verde)-pic.png">
-    <img src="https://user-images.githubusercontent.com/76459155/223619311-556990b7-b214-4eb0-b114-c801d021a1a4.png" align="center" width="600" height="90" alt="ObrigadoPorVisitar(Verde)-pic" title="Bye bye! :)" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Sue+Ellen+Francisco&size=40&duration=1&pause=99999&color=499627&center=true&vCenter=true&repeat=false&width=620&height=60&lines=Obrigado+por+visitar%2C+e+até+a+próxima!" alt="TypingGoodbye-SVG" title="Boas venturas e volte sempre que precisar! ;)"/>
   </a>
 </div>
 
