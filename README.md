@@ -61,7 +61,8 @@
     <a href="#5-conceitos-e-métodos-de-arrayfunções">Conceitos Aprendidos 5</a>
   </p>
     <a href="#6-conceitos-e-métodos-de-arrayfunções-avançados">Conceitos Aprendidos 6</a> &#xa0; | &#xa0;
-    <a href="#7-conceitos-e-métodos-de-matrizes">Conceitos Aprendidos 7</a>
+    <a href="#7-conceitos-e-métodos-de-matrizes">Conceitos Aprendidos 7</a> &#xa0; | &#xa0;
+    <a href="#-autor">Autor</a>
   </p>
 </div>
 
