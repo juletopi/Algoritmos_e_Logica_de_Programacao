@@ -322,13 +322,12 @@ namespace Calculadora_CSharp
 
 <div align="center">
   
-> [!WARNING]\
-> A partir deste ponto, se inicia:\
-> **"Algoritmos e Lógica de Programação II"**
+| <h3 align="center">⚠️ AVISO</h3> |
+|:---------------------------------|
+| <p><div align="center">A partir deste ponto, se inicia: <br>**"Algoritmos e Lógica de Programação II"** </p> |
 
 </div>
-
-<div align="left">
+<br>
 
 ### 5. Conceitos e Métodos de Array/Funções
 
