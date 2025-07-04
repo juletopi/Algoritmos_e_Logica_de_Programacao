@@ -559,32 +559,56 @@ for (int i = 0; i < quant; i++)
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="middle" width="25%">
       <div align="center">  
-        <a href="https://github.com/juletopi">
-          <img src="https://user-images.githubusercontent.com/76459155/220271784-9f930c36-c370-4518-9b56-604627c6e2b5.png" width="120px;" alt="JuletopiAvatar-pic" title="Autor: Juletopi" />
+        <a href="https://github.com/juletopi" title="Perfil no GitHub" aria-label="GitHub - Juletopi">
+          <img src="https://user-images.githubusercontent.com/76459155/220271784-9f930c36-c370-4518-9b56-604627c6e2b5.png" width="150" alt="Profile Pic - Juletopi"/>
           <br>
-          <sub><b>Júlio Cézar | Juletopi</b></sub>
+          <sub><strong>Júlio Cézar | Juletopi</strong></sub>
+          <br>
         </a>
       </div>
     </td>
-    <td valign="left" width="100%">
-      <div align="left">
-        <ul>
-          <li>
-            <sub><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="15" alt="LinkedIn-icon"> LinkedIn - <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/">Júlio Cézar P. Camargo</a></sub>
-          </li>
-          <li>
-            <sub><img align="center" src="https://pngimg.com/uploads/email/email_PNG100738.png" height="15" alt="Facebook-icon"> Email - <a href="mailto:juliocezarpvh@hotmail.com">juliocezarpvh@hotmail.com</a></sub>
-          </li>
-          <li>
-            <sub><img align="center" src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" height="15" alt="WhatsApp-icon"> Whatsapp - <a href="http://api.whatsapp.com/send?phone=5569993606894">+55 (69) 9 9360-6894</a></sub>
-          </li>
-          <li>
-            <sub><img align="center" src="https://cdn3.emoji.gg/emojis/6333-instagram.png" height="15" alt="Instagram-icon"> Instagram - <a href="https://www.instagram.com/juletopi/">@juletopi</a></sub>
-          </li>
-        </ul>
-      </div>
+    <td valign="middle" width="75%">
+      <ul style="list-style: none; padding-left: 0; margin: 0;">
+        <li>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="15" alt="LinkedIn" style="vertical-align:middle;">
+          LinkedIn — 
+          <a href="https://www.linkedin.com/in/julio-cezar-pereira-camargo/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn - Júlio Cézar P. Camargo">
+            Júlio Cézar P. Camargo
+          </a>
+        </li>
+        <li>
+          <img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="15" alt="Email" style="vertical-align:middle;">
+          Email — 
+          <a href="mailto:juliocezarpvh@hotmail.com" aria-label="Send email - juliocezarpvh@hotmail.com">
+            juliocezarpvh@hotmail.com
+          </a>
+        </li>
+        <li>
+          <img src="https://cdn3.emoji.gg/emojis/2116-facebook.png" width="15" alt="Facebook" style="vertical-align:middle;">
+          Facebook — 
+          <a href="https://www.facebook.com/juhletopi" target="_blank" rel="noopener noreferrer" aria-label="Facebook - Juhletopi">
+            facebook.com/juhletopi
+          </a>
+        </li>
+        <li>
+          <img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="15" alt="Instagram" style="vertical-align:middle;">
+          Instagram — 
+          <a href="https://www.instagram.com/juletopi/" target="_blank" rel="noopener noreferrer" aria-label="Instagram - Juletopi">
+            @juletopi
+          </a>
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://juletopi.github.io/JCPC_Portfolio/src/images/initialsLogo.png" width="25" alt="Portfolio" align="center"/>
+      Portfolio —
+      <a href="https://linktr.ee/juletopi" target="_blank" rel="noopener noreferrer" aria-label="Portfolio - Juletopi">
+        juletopi.github.io/JCPC_Portfolio
+      </a>
     </td>
   </tr>
 </table>
