@@ -52,7 +52,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="#-professor">Professor</a> &#xa0; | &#xa0;
+    <a href="#%E2%80%8D-professor">Professor</a> &#xa0; | &#xa0;
     <a href="#1-coment%C3%A1rios-declara%C3%A7%C3%A3o-de-vari%C3%A1veis-e-comandos-do-console">Conceitos Aprendidos 1</a> &#xa0; | &#xa0;
     <a href="#2-conceitos-de-ifelse">Conceitos Aprendidos 2</a> 
   </p>
@@ -157,7 +157,7 @@ namespace Calculadora_CSharp
 ```
 
 <div align="left">
-  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+  <h6><a href="#algoritmos-e-lógica-de-programação-%E2%80%8D""> Voltar para o início ↺</a></h6>
 </div>
 
 <div align="center">
@@ -207,7 +207,7 @@ namespace Calculadora_CSharp
 ```
 
 <div align="left">
-  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+  <h6><a href="#algoritmos-e-lógica-de-programação-%E2%80%8D""> Voltar para o início ↺</a></h6>
 </div>
 
 <div align="center">
@@ -267,7 +267,7 @@ namespace Calculadora_CSharp
 ```
 
 <div align="left">
-  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+  <h6><a href="#algoritmos-e-lógica-de-programação-%E2%80%8D""> Voltar para o início ↺</a></h6>
 </div>
 
 <div align="center">
@@ -315,7 +315,7 @@ namespace Calculadora_CSharp
 ```
 
 <div align="left">
-  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+  <h6><a href="#algoritmos-e-lógica-de-programação-%E2%80%8D""> Voltar para o início ↺</a></h6>
 </div>
 
 <br>
@@ -378,7 +378,7 @@ Console.WriteLine("Resultado da soma dos valores inseridos: " + soma); // <-- So
 ```
 
 <div align="left">
-  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+  <h6><a href="#algoritmos-e-lógica-de-programação-%E2%80%8D""> Voltar para o início ↺</a></h6>
 </div>
 
 <div align="center">
@@ -462,7 +462,7 @@ for (int i = 0; i < nomeAluno.Length; i++) // <-- Criando um efeito de "Calculan
 ```
 
 <div align="left">
-  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+  <h6><a href="#algoritmos-e-lógica-de-programação-%E2%80%8D""> Voltar para o início ↺</a></h6>
 </div>
 
 <div align="center">
@@ -548,7 +548,7 @@ for (int i = 0; i < quant; i++)
 ```
 
 <div align="left">
-  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+  <h6><a href="#algoritmos-e-lógica-de-programação-%E2%80%8D"> Voltar para o início ↺</a></h6>
 </div>
 
 <br>
@@ -562,7 +562,7 @@ for (int i = 0; i < quant; i++)
     <td valign="middle" width="25%">
       <div align="center">  
         <a href="https://github.com/juletopi" title="Perfil no GitHub" aria-label="GitHub - Juletopi">
-          <img src="https://user-images.githubusercontent.com/76459155/220271784-9f930c36-c370-4518-9b56-604627c6e2b5.png" width="150" alt="Profile Pic - Juletopi"/>
+          <img src="https://avatars.githubusercontent.com/u/76459155?s=400&u=4b9bd87cae92eea4fc154c28eafe226ed034a1d8&v=4" width="150" alt="Profile Pic - Juletopi"/>
           <br>
           <sub><strong>Júlio Cézar | Juletopi</strong></sub>
           <br>
@@ -614,7 +614,7 @@ for (int i = 0; i < quant; i++)
 </table>
 
 <div align="left">
-  <h6><a href="#algoritmos-e-lógica-de-programação-"> Voltar para o início ↺</a></h6>
+  <h6><a href="#algoritmos-e-lógica-de-programação-%E2%80%8D""> Voltar para o início ↺</a></h6>
 </div>
 
 <br>
