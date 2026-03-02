@@ -604,7 +604,7 @@ for (int i = 0; i < quant; i++)
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://juletopi.github.io/JCPC_Portfolio/src/images/initialsLogo.png" width="25" alt="Portfolio" align="center"/>
+      <img src="https://github.com/user-attachments/assets/a3e6ca25-6035-4a7a-94b9-f35cb9d24a96" width="18" alt="Portfolio" align="center"/>
       Portfolio —
       <a href="https://juletopi.github.io/JCPC_Portfolio/" target="_blank" rel="noopener noreferrer" aria-label="Portfolio - Juletopi">
         juletopi.github.io/JCPC_Portfolio
